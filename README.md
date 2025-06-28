@@ -18,6 +18,7 @@ gradio + Python	UI Web Chatbot
 Dockerfile + docker-compose	Untuk menjalankan semua secara otomatis
 
 ✅ LANGKAH-LANGKAH
+
 🟢 1. Buat Folder Proyek
 Buat folder bernama chatbot-ollama-gui, lalu isi dengan:
 
